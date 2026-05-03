@@ -16,7 +16,7 @@ On-chain Alpha: Veteran Memecoin strategist with a focus on smart money tracking
 
 🛠 Tech Stack
 
-Web & Enterprise: React, Next.js, Tailwind CSS, Node.js, PostgreSQL, Docker
+Web & Enterprise: React, Next.js, Tailwind CSS, Node.js, PostgreSQL, Docker, html, javascript
 
 AI & Data Science: Python, FastAPI, OpenAI API, SoSoValue Market Intelligence
 
